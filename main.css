@@ -46,7 +46,7 @@ body {
       text-decoration: none;
 }
 .social:hover{
-      color: #06d6a0;
+      color: #9d4edd; /* #06d6a0 */
       transition: .5s;
 }
 
@@ -109,7 +109,7 @@ body {
 }
 .button:hover{
       text-decoration: none;
-      background: #06d6a0;
+      background: #9d4edd;
       color: #fff;
       transition: .5s;
 }
